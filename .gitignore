@@ -5,6 +5,9 @@
 *.db
 .DS_Store
 Thumbs.db
+sys_*.sql
+
+
 
 # Ignore backups
 ~$*
